@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.intro {
+  font-size: 1.5rem;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Calibri', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  position: relative;
+  padding: 50px
+}
+
+.slika {
+  width: 25%;
+  margin-top: 5px;
+}
+
+.middle-container {}
+
+.skills {}
+
+.bottom-container {}
+
+.bottom-cloud {
+  width: 8%;
+  position: absolute;
+  left: 300px;
+  bottom: 20px;
+}
+
+.top-cloud {
+  width: 10%;
+  position: absolute;
+  right: 300px;
+  top: 10px;
+}
+
+.profile {}
+
+.jokic {
+  Width: 25%;
+}
+
+.Bogdan {
+  width: 25%;
+}
+
+.Teo {
+  width: 30%;
+}
+
+.Bobi {
+  width: 25%;
+}
+
+.Nemanja {
+  width: 25%;
+}
